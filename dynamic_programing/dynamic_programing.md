@@ -40,13 +40,6 @@
 + 博弈型(5%)
 + 综合型(5%)
 
-动态规划时间空间优化(Optimization)
----
-+ FollowUp
-
-动态规划打印路径(Output Path)
----
-
 特点及其实例(Feature)
 ---
 + 计数(Count)
@@ -73,3 +66,10 @@
    - 题目列表
       + [Jump Game II](https://www.lintcode.com/problem/jump-game-ii)
       + ...
+
+动态规划打印路径(Output Path)
+---
+
+动态规划时间空间优化(Optimization)
+---
++ FollowUp
