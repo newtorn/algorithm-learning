@@ -44,9 +44,8 @@
 代码
 ---
 ```cpp
-using namespace std;
-
 class Solution {
+
 public:
     /**
      * @param m: positive integer (1 <= m <= 100)
